@@ -1,4 +1,3 @@
-/* eslint-disable no-console */
 import React from 'react';
 import Sidebar from './components/sidebar';
 import Header from './components/header';
